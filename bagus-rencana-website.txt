@@ -1,5 +1,7 @@
 RENCANA WEBSITE
 - Penyelesaian Masalah
   * Memberikan solusi
-- Website Company Profile
-  * Latar Belakang
+- Website Interactive
+  * UI/UX
+  * Frontend
+  * Backend
