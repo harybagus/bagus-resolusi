@@ -3,3 +3,5 @@ RENCANA WEBSITE
   * Memberikan solusi
 - Website Interactive
   * UI/UX
+  * Frontend
+  * Backend
